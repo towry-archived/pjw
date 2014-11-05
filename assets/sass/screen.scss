@@ -1,0 +1,39 @@
+body {
+  font: 13px/20px $font-family;
+  color: #404040;
+  background: #fff;
+}
+
+#container {
+  width: 800px;
+  max-width: 800px;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+#header {
+  margin-bottom: 5em;
+}
+
+#footer {
+  margin-top: 5em;  
+}
+
+.login-form form > div {
+  margin: 1em 0 .3em;
+}
+
+.login-form label {
+  font-weight:bold;
+  width: 100px;
+  display: block;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.input,
+input[type=text],
+input[type=password],
+input[type=email] {
+  padding: 5px 6px;
+}

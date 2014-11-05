@@ -1,0 +1,23 @@
+{
+    "name": "pjw",
+    "version": "0.0.1",
+    "main": "Gruntfile.js",
+    "scripts": {
+        "test": "echo no test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:towry/pjw.git"
+    },
+    "keywords": [
+        "php"
+    ],
+    "author": "Towry Wang",
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-sass": "~0.7.3",
+        "grunt-contrib-watch": "latest",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-compass": "latest"
+    }
+}
